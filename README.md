@@ -9,10 +9,10 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SN737)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SN737&theme=dark)](https://git.io/streak-stats)
-<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SN737&theme=solarized_dark)-->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=SN737&theme=dark)](https://git.io/streak-stats)-->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SN737&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SN737&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SN737&theme=solarized_dark)
 
 <!--[![GitHub Streak](https://github-readme-streak-stats-re64.vercel.app?user=JenBrainnet)](https://git.io/streak-stats)-->
 
