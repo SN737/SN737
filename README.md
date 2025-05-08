@@ -3,11 +3,9 @@
 
 ### GitHub Stats
 
-<!--[![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JenBrainnet&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)-->  
+<!--[![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SN737&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)-->  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SN737&hide=c&theme=default)
-
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SN737)](https://git.io/streak-stats)
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=SN737&theme=dark)](https://git.io/streak-stats)-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SN737&theme=solarized_dark)
