@@ -10,7 +10,7 @@
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=SN737&theme=dark)](https://git.io/streak-stats)-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SN737&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SN737&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SN737&theme=solarized_dark&utcOffset={+3.00})
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SN737&theme=solarized_dark&utcOffset={+3})
 
 <!--[![GitHub Streak](https://github-readme-streak-stats-re64.vercel.app?user=JenBrainnet)](https://git.io/streak-stats)-->
 
